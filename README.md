@@ -1,3 +1,6 @@
 # Pagina-Web15
-Probando mis Proyectos Personales en GitHub
-pagina web relacionada al Turismo
+Proyectos Personales
+presento un plan de negocio basado en el turismo
+una sintaxis simple de manejar y leer.
+Diviertete puedes colaborar en el envio de Email
+Hecha le un Visto.
